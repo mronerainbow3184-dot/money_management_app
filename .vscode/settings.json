@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\81806\\.vscode\\money_management_app\\.venv\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "files.watcherExclude": {
+        "C:\\Users\\81806\\AppData\\Local\\Microsoft\\WindowsApps\\**": true
+    }
+}
