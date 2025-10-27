@@ -25,6 +25,5 @@ def main():
     print("\n📊 記録されたデータ:")
     for record in records:
         print(f"- {record['category']}: ¥{record['amount']}")
-
 if __name__ == "__main__":
     main()
